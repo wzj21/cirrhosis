@@ -12,7 +12,7 @@ st.sidebar.warning('The remaining dimension variables are values within the firs
 
 
 # 显示预后模型的信息
-st.info('#### Prognostic model for sepsis combined with hypoproteinemia')
+st.info('#### Prognostic Model For Critically Ill Patients With Liver Cirrhosis')
 
 # 指定要使用的模型文件
 model_file = "Stacking.pkl"  # 在这里使用你的模型文件
